@@ -1,2 +1,2 @@
-# Todo-list
- A simple todo app with vanilla JS
+# todo-list
+ A simple todo list in vanilla JS
